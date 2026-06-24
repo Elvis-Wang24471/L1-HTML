@@ -1,0 +1,19 @@
+body {
+    background-color: #f2f7ff;
+    font-family: Arial, sans-serif;
+    color: #222222;
+}
+h1 {
+    color: navy;
+    text-align: center;
+}
+h2 {
+    color: darkgreen;
+}
+hr {
+    width: 80%;
+    border: 2px solid navy;
+}
+audio {
+    width: 300px;
+}
